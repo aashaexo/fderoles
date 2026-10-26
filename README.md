@@ -1,0 +1,108 @@
+# 100 FDE roles (1 per company)
+
+| # | Company | Role | Location | FDE openings |
+|---|---|---|---|---|
+| 1 | Abridge | [Member of Product Staff, Forward Deployed](https://jobs.ashbyhq.com/abridge/aef83f6a-0bc8-4d6a-b310-24415918ee3c) | SF Office | 1 |
+| 2 | AI Studio | [Forward Deployed Engineer](https://jobs.ashbyhq.com/aistudio/45459ed5-b367-49b9-9b80-f48e7907d4df) | India - Remote | 1 |
+| 3 | AIR | [Forward Deployed Software Engineer](https://job-boards.greenhouse.io/air/jobs/4068889009) | Arlington, Virginia, United States; Pittsburgh, Pennsylvania, United States; Remote | 3 |
+| 4 | Akasa | [Forward Deployed Engineer](https://jobs.ashbyhq.com/akasa/7ef5ac9f-92f2-4e40-a11f-c334d307ca28) | San Francisco | 1 |
+| 5 | Alex AI | [Forward-Deployed Engineer](https://jobs.ashbyhq.com/alexai/a740ba34-d98a-4fea-b310-23ed3f366a39) | New York City | 1 |
+| 6 | Anduril | [Forward Deployed Engineer, Air Defense (FDE)](https://boards.greenhouse.io/andurilindustries/jobs/5057206007?gh_jid=5057206007) | Costa Mesa, California, United States | 2 |
+| 7 | Anthropic | [Forward Deployed Engineer](https://job-boards.greenhouse.io/anthropic/jobs/5391021008) | Paris, France | 7 |
+| 8 | Apollo Research | [Forward Deployed Engineer (Product)](https://jobs.lever.co/apolloresearch/2237ce81-cb8e-4f53-a047-e12ea5d6e7d8) | London & San Francisco | 1 |
+| 9 | Applied Labs | [Forward Deployed Engineer (EMEA)](https://jobs.ashbyhq.com/applied/839a96a2-aec5-4428-b045-ae15633a4a76) | Munich | 7 |
+| 10 | Artisan | [Forward Deployed GTM Architect](https://jobs.ashbyhq.com/artisan/77f1e47e-61d0-4245-bc99-02bb189ce392) | San Francisco | 1 |
+| 11 | Asana | [Forward Deployed Engineer, Command by Asana](https://www.asana.com/jobs/apply/8044789?gh_jid=8044789) | New York City | 2 |
+| 12 | Assort Health | [Forward Deployed Engineer](https://jobs.ashbyhq.com/assorthealth/694e3f5a-c777-4db9-9b62-3db952e629fd) | San Francisco | 3 |
+| 13 | Baseten | [Forward Deployed Engineer](https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e) | San Francisco | 3 |
+| 14 | Blitzy | [Forward Deployed Engineer](https://jobs.ashbyhq.com/blitzy/2758c2f4-b90c-43de-8de8-7b8bcc4ff15e) | Cambridge, MA | 4 |
+| 15 | C3 AI | [Forward Deployed Engineer](https://c3.ai/job-description/8581326002?gh_jid=8581326002) | London, Greater London, England, United Kingdom | 6 |
+| 16 | Candid Health | [Forward Deployed Software Engineer](https://jobs.ashbyhq.com/candidhealth/71365073-41fb-40a8-b23a-3e02306770a5) | San Francisco | 1 |
+| 17 | Casca | [Forward Deployed Engineer](https://jobs.ashbyhq.com/casca/577560f5-e509-4ffe-9ff0-cbf71b64e954) | San Francisco | 1 |
+| 18 | Cloudflare | [Forward Deployed Engineer (FDE)](https://boards.greenhouse.io/cloudflare/jobs/7572075?gh_jid=7572075) | Hybrid | 11 |
+| 19 | Cognition | [Forward Deployed Engineer - US](https://jobs.ashbyhq.com/cognition/d72d584c-bb11-4b6a-b043-d81425ea884a) | San Francisco | 11 |
+| 20 | Cohere | [Forward Deployed Engineer, Infrastructure Specialist (Middle East)](https://jobs.ashbyhq.com/cohere/291e5dee-dcda-49e6-a1b6-dae0d48f80af) | Middle East | 11 |
+| 21 | Coinbase | [Forward Deployed Engineer, Finance [Office of the CTO]](https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932) | Remote - USA | 2 |
+| 22 | Commure | [Forward Deployed Engineer](https://jobs.ashbyhq.com/commure/faeeff7f-b1f9-4db2-93ff-99da570f85b0) | Mountain View, CA | 2 |
+| 23 | Conductor AI | [Forward Deployed Software Engineer](https://jobs.ashbyhq.com/conductorai/9033a187-9713-44ea-aaa2-efad092673c2) | Washington, DC | 1 |
+| 24 | Credal | [Forward Deployed Software Engineer](https://jobs.ashbyhq.com/credal/ec8a560e-fe8b-4989-b24f-5946bbbb8ab4) | Credal HQ (Brooklyn, NY) | 1 |
+| 25 | Cresta | [Senior Forward Deployed Engineer (AI Agent)](https://job-boards.greenhouse.io/cresta/jobs/5107283008) | Australia (Remote) | 9 |
+| 26 | Cursor | [Forward Deployed Engineer](https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011) | San Francisco | 10 |
+| 27 | Databricks | [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8574655002) | Seoul, South Korea | 119 |
+| 28 | Datadog | [Forward Deployed Engineering Manager - Datadog for Startups](https://careers.datadoghq.com/detail/8003181/?gh_jid=8003181) | New York, New York, USA; San Francisco, California, USA | 1 |
+| 29 | Deepgram | [Forward-Deployed Engineer (FDE), Strategic Accounts](https://jobs.ashbyhq.com/deepgram/4bfadd29-fa58-4e06-bbf0-7b5dbc41a621) | San Francisco, CA | 3 |
+| 30 | Dexterity | [Forward Deployed Engineer](https://jobs.lever.co/dexterity/5005c9a7-4014-4ccb-8d13-c109951f9097) | Redwood City, CA | 1 |
+| 31 | Dropzone AI | [Forward Deployed Engineer](https://job-boards.greenhouse.io/dropzoneai/jobs/4394458009) | Remote - US | 1 |
+| 32 | ElevenLabs | [Forward Deployed Engineer - Software Engineer - USA](https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6) | San Francisco | 4 |
+| 33 | Encord | [Forward Deployed Software Engineer](https://jobs.ashbyhq.com/encord/3217ff0b-692c-434d-937c-d3ea22642952) | New York | 1 |
+| 34 | Endeavor AI | [Forward Deployed Engineer, Early Career](https://jobs.ashbyhq.com/endeavorai/e397ddef-2102-40e5-82e8-cd1e126f9da8) | Chicago | 1 |
+| 35 | Exa | [Forward Deployed Engineer](https://jobs.ashbyhq.com/exa/8932d319-b456-4ee0-9efd-16d82be8de80) | San Francisco, California | 6 |
+| 36 | Extend | [Forward Deployed Engineer](https://jobs.ashbyhq.com/extend/a28fb488-7c82-4bb5-8876-c20e209d2ac5) | New York City | 1 |
+| 37 | Factory | [Member of Deployed Staff, Forward Deployed Engineer](https://jobs.ashbyhq.com/factory/9b4262d3-4468-4e74-9d47-6ac3ae2804ec) | San Francisco, CA | 1 |
+| 38 | Field AI | [Forward Deployed Engineer](https://jobs.lever.co/field-ai/cce9d6c0-55c9-4513-b4f6-9508c2bc34d5) | Remote, KR | 5 |
+| 39 | Figma | [Forward Deployed Engineer](https://boards.greenhouse.io/figma/jobs/6158162004?gh_jid=6158162004) | San Francisco, CA • New York, NY • United States | 1 |
+| 40 | Firecrawl | [Forward Deployed Engineer](https://jobs.ashbyhq.com/firecrawl/bda40f47-a69b-44d4-ac1a-3f86f20d802d) | San Francisco, CA | 1 |
+| 41 | First Resonance | [Forward Deployed Software Engineer (San Francisco)](https://jobs.ashbyhq.com/first-resonance/fdb3fcb7-2575-4fb2-b5d8-945a7aeab427) | San Francisco | 8 |
+| 42 | Flink | [Lead Forward Deployed Software Engineer](https://jobs.ashbyhq.com/flink/2f7cd7b3-8e88-438b-9f2b-d44be10584a9) | Zürich | 1 |
+| 43 | Fulcrum | [Forward Deployed AI Engineer](https://jobs.ashbyhq.com/with-fulcrum/2e6f2bac-24eb-4d19-ad3f-4bf56c705e9b) | Fulcrum HQ | 1 |
+| 44 | GitLab | [Forward Deployed Engineer - EMEA](https://job-boards.greenhouse.io/gitlab/jobs/8522265002) | Remote Ireland; Remote, France; Remote, Germany; Remote, Netherlands; Remote, United Kingdom | 2 |
+| 45 | Glean | [Founding Forward Deployed Engineer](https://job-boards.greenhouse.io/gleanwork/jobs/4651990005) | Mountain View, CA | 3 |
+| 46 | Greptile | [Forward Deployed Engineer](https://jobs.ashbyhq.com/greptile/87de72d7-b4be-406a-bcf5-4b3d601bdd37) | San Francisco | 1 |
+| 47 | H Company | [Forward Deployed Engineer](https://jobs.ashbyhq.com/hcompany/53ef301a-ba59-4352-b5f0-bb7f3b6dc9df) | Hybrid Paris | 4 |
+| 48 | Hadrian Automation | [All Levels: Forward Deployed Engineer](https://jobs.ashbyhq.com/hadrian-automation/cccab6a1-9ed2-4890-b331-5e503cefa799) | Los Angeles, CA | 5 |
+| 49 | Handshake | [Forward Deployed Engineer, Enterprise AI](https://jobs.ashbyhq.com/handshake/c91b7ebf-2c69-4d91-809d-a30ea0b9dc18) | San Francisco, CA | 6 |
+| 50 | HappyRobot | [Forward Deployed Engineer](https://jobs.ashbyhq.com/happyrobot.ai/afd99ef3-78a8-47a1-8566-04f1cf73939d) | San Francisco | 17 |
+| 51 | Harmattan Ai | [Forward Deployed Software Engineer](https://jobs.ashbyhq.com/harmattan-ai/b4bb6811-f6f4-4ecf-a93d-1b29c3a063dd) | Rabat | 3 |
+| 52 | Harvey | [Forward Deployed Finance Engineer, Private Credit](https://jobs.ashbyhq.com/harvey/43c6e218-ea85-4519-b2fe-dd188ff3234f) | New York | 3 |
+| 53 | Hippocratic AI | [Forward Deployed Engineer (Mid/Senior)](https://jobs.ashbyhq.com/hippocratic%20ai/378e1797-b92c-4fce-98d2-03481e214bb5) | Menlo Park, CA | 3 |
+| 54 | Icarus | [Forward Deployed Engineer](https://job-boards.greenhouse.io/icarus/jobs/5102844008) | El Segundo | 2 |
+| 55 | Intercom (Fin) | [Forward Deployed Engineer](https://job-boards.greenhouse.io/intercom/jobs/8201208) | Chicago, Illinois; San Francisco, California | 5 |
+| 56 | Kastle | [Forward Deployed Engineer](https://jobs.ashbyhq.com/kastle/a4bd5818-3b58-4e6d-880c-2c4ca2d989f6) | San Francisco | 1 |
+| 57 | Legora | [Junior/Mid-level Forward Deployed Engineer](https://jobs.ashbyhq.com/legora/572044a8-d0c4-42b4-97d3-bde7cb5599d6) | New York City | 2 |
+| 58 | Level AI | [Forward Deployed Engineer - Agents(Remote)](https://jobs.lever.co/levelai/498dfb1d-2f80-4a74-8d08-ecadccd8a221) | India | 1 |
+| 59 | LiveKit | [Forward Deployed Engineer](https://jobs.ashbyhq.com/livekit/b889ef16-4d5d-4b71-b0a9-682026a0a1ee) | New York, NY (Remote) | 4 |
+| 60 | Middesk | [Forward Deployed Engineer](https://jobs.ashbyhq.com/middesk/a72b1048-1001-49b1-92bd-9c44574f939b) | San Francisco | 1 |
+| 61 | Mintlify | [Forward Deployed Engineer (SF)](https://jobs.ashbyhq.com/mintlify/a4245873-582a-48d7-8a07-b92784ec7be3) | San Francisco | 2 |
+| 62 | Modal | [Forward Deployed Engineer - ML](https://jobs.ashbyhq.com/modal/9fadb51f-ce11-41b1-84d5-470e66cc8ee9) | New York | 2 |
+| 63 | MongoDB | [Forward Deployed Engineer, Industry Solutions](https://www.mongodb.com/careers/job/?gh_jid=8153137) | Toronto | 6 |
+| 64 | Mural | [Forward Deployed Software Engineer](https://jobs.ashbyhq.com/careers.mural/5a15f088-d06a-484a-9d87-79aa9e2ee3a1) | NYC | 1 |
+| 65 | Neon | [Forward Deployed Engineer](https://jobs.ashbyhq.com/neon/244b2337-7b43-4be7-9ef1-f7659ba7b0af) | Asia | South Korea | 1 |
+| 66 | Nitra | [Forward Deployed Engineer, AI Solutions](https://jobs.lever.co/nitra/62f40513-b601-4c49-9909-8fb75ac9dfb2) | Washington, District of Columbia, USA | 2 |
+| 67 | Notion | [Forward Deployed Engineer, GTM, AMER](https://jobs.ashbyhq.com/notion/10437426-14c8-4c45-8075-67959ce80393) | San Francisco, California | 9 |
+| 68 | Onebrief | [Forward Deployed Engineer](https://jobs.ashbyhq.com/onebrief/7348dc63-e60a-4b9f-b553-4538492aa11f) | United States | Remote | 1 |
+| 69 | OpenAI | [Forward Deployed Software Engineer - SF](https://jobs.ashbyhq.com/openai/00207abc-49b7-465c-a219-f7c1140f8047) | San Francisco | 30 |
+| 70 | OpenRouter | [Forward Deployed Engineer](https://jobs.ashbyhq.com/openrouter/1b26f0a2-4aab-4bef-8c21-0f8de9a059e3) | San Francisco Bay Area, California | 1 |
+| 71 | Origin | [Forward Deployed Engineer](https://jobs.ashbyhq.com/originhq/aa35cc3c-8364-4cea-8057-b50251275684) | United States | 1 |
+| 72 | Outreach | [Senior Forward Deployed Engineer,  Managed Services](https://jobs.lever.co/outreach/16657196-aa36-4b6c-9349-ff052cca047a) | Hyderabad | 1 |
+| 73 | PagerDuty | [Forward Deployed Engineer (SDEV)](https://job-boards.greenhouse.io/pagerduty/jobs/6216870004) | Remote (USA - New York City, NY) | 3 |
+| 74 | Palantir | [Forward Deployed Software Engineer](https://jobs.lever.co/palantir/1bb19522-3936-4adc-9ced-c3df8b5900b9) | Seoul, South Korea | 73 |
+| 75 | Parloa | [Forward Deployed Engineer - US](https://jobs.ashbyhq.com/parloa/0d32d63b-20ed-4402-aa2e-d392a74c68cf) | Parloa Inc. | 2 |
+| 76 | Ramp | [Software Engineer, Forward Deployed AI Solutions](https://jobs.ashbyhq.com/ramp/b614563f-3ce6-4dca-b5ba-0e5a6c8bda27) | New York, NY (HQ) | 2 |
+| 77 | Reddit | [Lead Forward Deployed Engineer (AI Enablement)](https://job-boards.greenhouse.io/reddit/jobs/8301736) | Remote - United States | 2 |
+| 78 | Reducto | [Forward Deployed Engineer, Infrastructure Specialist](https://jobs.ashbyhq.com/reducto/cf1751ef-0b97-4bd3-af10-1f95514b8f8e) | San Francisco Office | 2 |
+| 79 | Reflection AI | [Forward Deployed Engineer - AI Engineer](https://jobs.ashbyhq.com/reflectionai/8b97b583-3cc6-4834-ae2c-d5aecf22ed7d) | New York, NY | 4 |
+| 80 | Regal AI | [AI Forward Deployed Engineer](https://jobs.lever.co/regal.ai/7bbea0f0-9f63-4cc8-8d02-8eeec018bbcd) | New York, New York | 2 |
+| 81 | Replit | [Forward Deployed Engineer](https://jobs.ashbyhq.com/replit/9a56d0ac-db44-4dc1-b960-2364557bf4c8) | Foster City, CA | 1 |
+| 82 | Rogo | [Forward Deployed Banker, EMEA](https://jobs.ashbyhq.com/rogo/7ad7f5ac-9a6b-4265-a02d-6a80f4b80b12) | London | 17 |
+| 83 | Rox | [Forward Deployed Engineer (FDE)](https://jobs.ashbyhq.com/rox-data-corp/8c1d393b-3bf5-48bd-99f9-4ae9d960f8b4) | San Francisco | 1 |
+| 84 | Sardine | [Forward Deployed Engineer, Integrations - EU/UK](https://jobs.ashbyhq.com/sardine/ae38f6b8-91c6-4914-9113-e146813e2b28) | Europe | 3 |
+| 85 | Saronic | [Forward Deployed Software Engineer](https://jobs.ashbyhq.com/saronic/f33184f4-52ef-4b75-b644-2a7d6d525118) | Austin, TX | 8 |
+| 86 | Sayari | [Forward Deployed Engineer I (Remote, US)](https://job-boards.greenhouse.io/sayari/jobs/4465852009) | Remote - US | 5 |
+| 87 | Scale AI | [Forward Deployed Software Engineer, Public Sector](https://job-boards.greenhouse.io/scaleai/jobs/4481921005) | Austin, TX; Colorado Springs, CO; Honolulu, HI; Omaha, NE; St. Louis, MO; Washington, DC | 13 |
+| 88 | Shield AI | [Forward Deployed Engineer II (5951)](https://jobs.lever.co/shieldai/4a8a35f3-9be6-4b18-97b6-37923c71619a) | London | 6 |
+| 89 | Snorkel AI | [VP, Head of Forward Deployed Engineering](https://job-boards.greenhouse.io/snorkelai/jobs/5828338004) | New York City, NY (Hybrid); San Francisco, CA (Hybrid) | 7 |
+| 90 | SoFi | [Sr Staff Forward Deployed Engineer, Enterprise AI](https://sofi.com/careers/job/7996286003?gh_jid=7996286003) | WA - Seattle; CA - San Francisco; UT - Cottonwood Heights | 1 |
+| 91 | Sola | [Forward Deployed Engineer](https://jobs.ashbyhq.com/sola/cf2b27be-7dc8-4e14-aff0-512639bac918) | New York City | 1 |
+| 92 | Speakeasy | [Forward Deployed Engineer](https://jobs.ashbyhq.com/speakeasy/def210b2-b6aa-421b-84c4-dcd278f95db9) | San Francisco | 1 |
+| 93 | Stripe | [Forward Deployed Engineer, Privy](https://stripe.com/jobs/search?gh_jid=7230452) | New York Privy HQ | 5 |
+| 94 | Talkdesk | [Forward Deployed AI Engineer](https://job-boards.greenhouse.io/talkdesk2/jobs/8314338) | United States Remote | 1 |
+| 95 | Tenex Labs | [Forward Deployed Engineer](https://jobs.ashbyhq.com/tenexlabs/2a359a2a-d5ed-48e8-96b8-b93826110ee9) | New York City | 3 |
+| 96 | Tennr | [Sr. Forward Deployed Engineer (Post-Sales)](https://jobs.ashbyhq.com/tennr/a439c5b8-1686-4b90-b2bc-cffd761e002d) | New York City Office | 1 |
+| 97 | Together AI | [Forward Deployed Engineer (Inference & Post-Training) - Mandarin Speaking](https://job-boards.greenhouse.io/togetherai/jobs/5199993007) | Singapore | 3 |
+| 98 | Twenty | [Senior/Staff Forward Deployed Software Engineer](https://jobs.ashbyhq.com/twenty/0e69685f-cb45-4cd6-905c-4686c50e7c94) | Chantilly, VA | 6 |
+| 99 | Varick | [Forward Deployed Engineer](https://jobs.ashbyhq.com/varick-agents/4d7a0ef2-9418-413b-be08-aa522e96551d) | SF | 1 |
+| 100 | Vercel | [Forward-Deployed Engineer](https://job-boards.greenhouse.io/vercel/jobs/5778418004) | Hybrid - London, Berlin | 2 |
+
+## How this was made
+
+Company slugs were found by searching Ashby, Greenhouse and Lever job boards for "forward deployed". `scripts/check.py` then reads each company's live job board API and keeps roles with "Forward Deployed" or "FDE" in the title. Run `python3 scripts/check.py` to refresh `live.json`.
